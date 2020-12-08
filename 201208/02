@@ -1,1 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2020-12-08T08:53:07.107Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" version="13.10.8" etag="n2pOx4riHccbcPtJWhPM" type="github"><diagram id="M4YjKZX7VfUengzb3fJy">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-08T09:18:04.273Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="qw1DpmZtoV_c18zPmNDZ" version="13.10.8" type="github">
+  <diagram id="M4YjKZX7VfUengzb3fJy" name="Page-1">
+    <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CswTHgBnKO2NrMbJVEK4-15" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;opacity=40;" vertex="1" parent="1">
+          <mxGeometry x="500" y="110" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CswTHgBnKO2NrMbJVEK4-18" value="&lt;font style=&quot;font-size: 13px&quot;&gt;数据应用层，面向不同部门，不同业务需求进行定制化开发，提供报表数据&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="110" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CswTHgBnKO2NrMbJVEK4-14" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;opacity=40;" vertex="1" parent="1">
+          <mxGeometry x="500" y="190" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CswTHgBnKO2NrMbJVEK4-17" value="&lt;font style=&quot;font-size: 13px&quot;&gt;数据轻汇总层，建设通用性维度和指标，主要表数据还是明细数据，部分数据为汇总数据，主要增强指标复用性&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="190" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CswTHgBnKO2NrMbJVEK4-13" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;opacity=40;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="500" y="270" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CswTHgBnKO2NrMbJVEK4-16" value="&lt;font style=&quot;font-size: 13px&quot;&gt;数据明细层，对数据进行主题划分，分为事实表和维度表，并对数据进行规范处理&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="270" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CswTHgBnKO2NrMbJVEK4-12" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;opacity=40;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="500" y="350" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CswTHgBnKO2NrMbJVEK4-6" value="&lt;font style=&quot;font-size: 13px&quot;&gt;数据源层，仅导入业务方数据，不做任何处理，相当于入大数据平台前的快照&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="500" y="355" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CswTHgBnKO2NrMbJVEK4-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;APP&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="130" y="110" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CswTHgBnKO2NrMbJVEK4-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;DM&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="130" y="190" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CswTHgBnKO2NrMbJVEK4-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;DW&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="130" y="270" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CswTHgBnKO2NrMbJVEK4-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;ODS&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="130" y="350" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CswTHgBnKO2NrMbJVEK4-19" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="299.5" y="350" as="sourcePoint" />
+            <mxPoint x="299.5" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CswTHgBnKO2NrMbJVEK4-20" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="299.5" y="270" as="sourcePoint" />
+            <mxPoint x="299.5" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CswTHgBnKO2NrMbJVEK4-22" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="299.5" y="190" as="sourcePoint" />
+            <mxPoint x="299.5" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
