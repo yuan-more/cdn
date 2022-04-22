@@ -333,6 +333,291 @@
       }
     ]
   },
+  "阿狸":{
+    "type":"image",
+    "container":[
+      {
+        "text":"ali-1",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/ali/001.gif'>"
+      },
+      {
+        "text":"ali-2",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/ali/002.gif'>"
+      },
+      {
+        "text":"ali-3",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/ali/003.gif'>"
+      },
+      {
+        "text":"ali-4",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/ali/004.gif'>"
+      },
+      {
+        "text":"ali-5",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/ali/005.gif'>"
+      },
+      {
+        "text":"ali-6",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/ali/006.gif'>"
+      },
+      {
+        "text":"ali-7",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/ali/007.gif'>"
+      },
+      {
+        "text":"ali-8",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/ali/008.gif'>"
+      },
+      {
+        "text":"ali-9",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/ali/009.gif'>"
+      },
+      {
+        "text":"ali-10",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/ali/010.gif'>"
+      },
+      {
+        "text":"ali-11",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/ali/011.gif'>"
+      },
+      {
+        "text":"ali-12",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/ali/012.gif'>"
+      },
+      {
+        "text":"ali-13",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/ali/013.gif'>"
+      },
+      {
+        "text":"ali-14",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/ali/014.gif'>"
+      },
+      {
+        "text":"ali-15",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/ali/015.gif'>"
+      },
+      {
+        "text":"ali-16",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/ali/016.gif'>"
+      },
+      {
+        "text":"ali-17",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/ali/017.gif'>"
+      },
+      {
+        "text":"ali-18",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/ali/018.gif'>"
+      },
+      {
+        "text":"ali-19",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/ali/019.gif'>"
+      },
+      {
+        "text":"ali-20",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/ali/020.gif'>"
+      },
+      {
+        "text":"ali-21",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/ali/021.gif'>"
+      },
+      {
+        "text":"ali-22",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/ali/022.gif'>"
+      },
+      {
+        "text":"ali-23",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/ali/023.gif'>"
+      },
+      {
+        "text":"ali-24",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/ali/024.gif'>"
+      },
+      {
+        "text":"ali-25",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/ali/025.gif'>"
+      },
+      {
+        "text":"ali-26",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/ali/026.gif'>"
+      },
+      {
+        "text":"ali-27",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/ali/027.gif'>"
+      },
+      {
+        "text":"ali-28",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/ali/028.gif'>"
+      },
+      {
+        "text":"ali-29",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/ali/029.gif'>"
+      },
+      {
+        "text":"ali-30",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/ali/030.gif'>"
+      },
+      {
+        "text":"ali-31",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/ali/031.gif'>"
+      },
+      {
+        "text":"ali-32",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/ali/032.gif'>"
+      },
+      {
+        "text":"ali-33",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/ali/033.gif'>"
+      },
+      {
+        "text":"ali-34",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/ali/034.gif'>"
+      },
+      {
+        "text":"ali-35",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/ali/035.gif'>"
+      },
+      {
+        "text":"ali-36",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/ali/036.gif'>"
+      },
+      {
+        "text":"ali-37",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/ali/037.gif'>"
+      },
+      {
+        "text":"ali-38",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/ali/038.gif'>"
+      },
+      {
+        "text":"ali-39",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/ali/039.gif'>"
+      },
+      {
+        "text":"ali-40",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/ali/040.gif'>"
+      },
+      {
+        "text":"ali-41",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/ali/041.gif'>"
+      },
+      {
+        "text":"ali-42",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/ali/042.gif'>"
+      },
+      {
+        "text":"ali-43",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/ali/043.gif'>"
+      },
+      {
+        "text":"ali-44",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/ali/044.gif'>"
+      },
+      {
+        "text":"ali-45",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/ali/045.gif'>"
+      },
+      {
+        "text":"ali-46",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/ali/046.gif'>"
+      },
+      {
+        "text":"ali-47",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/ali/047.gif'>"
+      },
+      {
+        "text":"ali-48",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/ali/048.gif'>"
+      },
+      {
+        "text":"ali-49",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/ali/049.gif'>"
+      },
+      {
+        "text":"ali-50",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/ali/050.gif'>"
+      },
+      {
+        "text":"ali-51",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/ali/051.gif'>"
+      },
+      {
+        "text":"ali-52",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/ali/052.gif'>"
+      },
+      {
+        "text":"ali-53",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/ali/053.gif'>"
+      },
+      {
+        "text":"ali-54",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/ali/054.gif'>"
+      },
+      {
+        "text":"ali-55",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/ali/055.gif'>"
+      },
+      {
+        "text":"ali-56",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/ali/056.gif'>"
+      },
+      {
+        "text":"ali-57",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/ali/057.gif'>"
+      },
+      {
+        "text":"ali-58",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/ali/058.gif'>"
+      },
+      {
+        "text":"ali-59",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/ali/059.gif'>"
+      },
+      {
+        "text":"ali-60",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/ali/060.gif'>"
+      },
+      {
+        "text":"ali-61",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/ali/061.gif'>"
+      },
+      {
+        "text":"ali-62",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/ali/062.gif'>"
+      },
+      {
+        "text":"ali-63",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/ali/063.gif'>"
+      },
+      {
+        "text":"ali-64",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/ali/064.gif'>"
+      },
+      {
+        "text":"ali-65",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/ali/065.gif'>"
+      },
+      {
+        "text":"ali-66",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/ali/066.gif'>"
+      },
+      {
+        "text":"ali-67",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/ali/067.gif'>"
+      },
+      {
+        "text":"ali-68",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/ali/068.gif'>"
+      },
+      {
+        "text":"ali-69",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/ali/069.gif'>"
+      },
+      {
+        "text":"ali-70",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/ali/070.gif'>"
+      }
+    ]
+  },
   "滑稽":{
     "type":"image",
     "container":[
@@ -900,6 +1185,368 @@
       {
         "text":"tusiji-40",
         "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/tusiji/0040.gif'>"
+      }
+    ]
+  },
+  "冷兔":{
+    "type":"image",
+    "container":[
+      {
+        "text":"lengtu-1",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/lengtu/01.gif'>"
+      },
+      {
+        "text":"lengtu-2",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/lengtu/02.gif'>"
+      },
+      {
+        "text":"lengtu-3",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/lengtu/03.gif'>"
+      },
+      {
+        "text":"lengtu-4",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/lengtu/04.gif'>"
+      },
+      {
+        "text":"lengtu-5",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/lengtu/05.gif'>"
+      },
+      {
+        "text":"lengtu-6",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/lengtu/06.gif'>"
+      },
+      {
+        "text":"lengtu-7",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/lengtu/07.gif'>"
+      },
+      {
+        "text":"lengtu-8",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/lengtu/08.gif'>"
+      },
+      {
+        "text":"lengtu-9",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/lengtu/09.gif'>"
+      },
+      {
+        "text":"lengtu-10",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/lengtu/10.gif'>"
+      },
+      {
+        "text":"lengtu-11",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/lengtu/11.gif'>"
+      },
+      {
+        "text":"lengtu-12",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/lengtu/12.gif'>"
+      },
+      {
+        "text":"lengtu-13",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/lengtu/13.gif'>"
+      },
+      {
+        "text":"lengtu-14",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/lengtu/14.gif'>"
+      },
+      {
+        "text":"lengtu-15",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/lengtu/15.gif'>"
+      },
+      {
+        "text":"lengtu-16",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/lengtu/16.gif'>"
+      },
+      {
+        "text":"lengtu-17",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/lengtu/17.gif'>"
+      },
+      {
+        "text":"lengtu-18",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/lengtu/18.gif'>"
+      },
+      {
+        "text":"lengtu-19",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/lengtu/19.gif'>"
+      },
+      {
+        "text":"lengtu-20",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/lengtu/20.gif'>"
+      },
+      {
+        "text":"lengtu-21",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/lengtu/21.gif'>"
+      },
+      {
+        "text":"lengtu-22",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/lengtu/22.gif'>"
+      },
+      {
+        "text":"lengtu-23",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/lengtu/23.gif'>"
+      },
+      {
+        "text":"lengtu-24",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/lengtu/24.gif'>"
+      },
+      {
+        "text":"lengtu-25",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/lengtu/25.gif'>"
+      },
+      {
+        "text":"lengtu-26",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/lengtu/26.gif'>"
+      },
+      {
+        "text":"lengtu-27",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/lengtu/27.gif'>"
+      },
+      {
+        "text":"lengtu-28",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/lengtu/28.gif'>"
+      },
+      {
+        "text":"lengtu-29",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/lengtu/29.gif'>"
+      },
+      {
+        "text":"lengtu-30",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/lengtu/30.gif'>"
+      },
+      {
+        "text":"lengtu-31",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/lengtu/31.gif'>"
+      },
+      {
+        "text":"lengtu-32",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/lengtu/32.gif'>"
+      },
+      {
+        "text":"lengtu-33",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/lengtu/33.gif'>"
+      },
+      {
+        "text":"lengtu-34",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/lengtu/34.gif'>"
+      },
+      {
+        "text":"lengtu-35",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/lengtu/35.gif'>"
+      },
+      {
+        "text":"lengtu-36",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/lengtu/36.gif'>"
+      },
+      {
+        "text":"lengtu-37",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/lengtu/37.gif'>"
+      },
+      {
+        "text":"lengtu-38",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/lengtu/38.gif'>"
+      },
+      {
+        "text":"lengtu-39",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/lengtu/39.gif'>"
+      },
+      {
+        "text":"lengtu-40",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/lengtu/40.gif'>"
+      },
+      {
+        "text":"lengtu-41",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/lengtu/41.gif'>"
+      },
+      {
+        "text":"lengtu-42",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/lengtu/42.gif'>"
+      },
+      {
+        "text":"lengtu-43",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/lengtu/43.gif'>"
+      },
+      {
+        "text":"lengtu-44",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/lengtu/44.gif'>"
+      },
+      {
+        "text":"lengtu-45",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/lengtu/45.gif'>"
+      },
+      {
+        "text":"lengtu-46",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/lengtu/46.gif'>"
+      },
+      {
+        "text":"lengtu-47",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/lengtu/47.gif'>"
+      },
+      {
+        "text":"lengtu-48",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/lengtu/48.gif'>"
+      }
+    ]
+  },
+  "嗷大喵":{
+    "type":"image",
+    "container":[
+      {
+        "text":"aodamiao-1",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/aodamiao/01.gif'>"
+      },
+      {
+        "text":"aodamiao-2",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/aodamiao/02.gif'>"
+      },
+      {
+        "text":"aodamiao-3",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/aodamiao/03.gif'>"
+      },
+      {
+        "text":"aodamiao-4",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/aodamiao/04.gif'>"
+      },
+      {
+        "text":"aodamiao-5",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/aodamiao/05.gif'>"
+      },
+      {
+        "text":"aodamiao-6",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/aodamiao/06.gif'>"
+      },
+      {
+        "text":"aodamiao-7",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/aodamiao/07.gif'>"
+      },
+      {
+        "text":"aodamiao-8",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/aodamiao/08.gif'>"
+      },
+      {
+        "text":"aodamiao-9",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/aodamiao/09.gif'>"
+      },
+      {
+        "text":"aodamiao-10",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/aodamiao/10.gif'>"
+      },
+      {
+        "text":"aodamiao-11",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/aodamiao/11.gif'>"
+      },
+      {
+        "text":"aodamiao-12",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/aodamiao/12.gif'>"
+      },
+      {
+        "text":"aodamiao-13",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/aodamiao/13.gif'>"
+      },
+      {
+        "text":"aodamiao-14",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/aodamiao/14.gif'>"
+      },
+      {
+        "text":"aodamiao-15",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/aodamiao/15.gif'>"
+      },
+      {
+        "text":"aodamiao-16",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/aodamiao/16.gif'>"
+      },
+      {
+        "text":"aodamiao-17",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/aodamiao/17.gif'>"
+      },
+      {
+        "text":"aodamiao-18",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/aodamiao/18.gif'>"
+      },
+      {
+        "text":"aodamiao-19",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/aodamiao/19.gif'>"
+      },
+      {
+        "text":"aodamiao-20",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/aodamiao/20.gif'>"
+      },
+      {
+        "text":"aodamiao-21",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/aodamiao/21.gif'>"
+      },
+      {
+        "text":"aodamiao-22",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/aodamiao/22.gif'>"
+      },
+      {
+        "text":"aodamiao-23",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/aodamiao/23.gif'>"
+      },
+      {
+        "text":"aodamiao-24",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/aodamiao/24.gif'>"
+      },
+      {
+        "text":"aodamiao-25",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/aodamiao/25.gif'>"
+      },
+      {
+        "text":"aodamiao-26",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/aodamiao/26.gif'>"
+      },
+      {
+        "text":"aodamiao-27",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/aodamiao/27.gif'>"
+      },
+      {
+        "text":"aodamiao-28",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/aodamiao/28.gif'>"
+      },
+      {
+        "text":"aodamiao-29",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/aodamiao/29.gif'>"
+      },
+      {
+        "text":"aodamiao-30",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/aodamiao/30.gif'>"
+      },
+      {
+        "text":"aodamiao-31",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/aodamiao/31.gif'>"
+      },
+      {
+        "text":"aodamiao-32",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/aodamiao/32.gif'>"
+      },
+      {
+        "text":"aodamiao-33",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/aodamiao/33.gif'>"
+      },
+      {
+        "text":"aodamiao-34",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/aodamiao/34.gif'>"
+      },
+      {
+        "text":"aodamiao-35",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/aodamiao/35.gif'>"
+      },
+      {
+        "text":"aodamiao-36",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/aodamiao/36.gif'>"
+      },
+      {
+        "text":"aodamiao-37",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/aodamiao/37.gif'>"
+      },
+      {
+        "text":"aodamiao-38",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/aodamiao/38.gif'>"
+      },
+      {
+        "text":"aodamiao-39",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/aodamiao/39.gif'>"
+      },
+      {
+        "text":"aodamiao-40",
+        "icon":"<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/aodamiao/40.gif'>"
       }
     ]
   }
